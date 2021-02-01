@@ -1322,7 +1322,7 @@
       </trans-unit>
       <trans-unit id="Import All Charas" xml:space="preserve">
         <source>Import All Charas</source>
-        <target>すべてのキャラを輸入</target>
+        <target>すべてのキャラをインポート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="In next [%@] attacks, %@'s physical attacks will miss." xml:space="preserve">
