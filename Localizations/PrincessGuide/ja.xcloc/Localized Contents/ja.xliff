@@ -196,47 +196,47 @@
       </trans-unit>
       <trans-unit id="%@ highest HP" xml:space="preserve">
         <source>%@ highest HP</source>
-        <target>HPが最も高い%@</target>
+        <target>最もHPが高い%@</target>
         <note>target type</note>
       </trans-unit>
       <trans-unit id="%@ highest HP ratio" xml:space="preserve">
         <source>%@ highest HP ratio</source>
-        <target>HP割合が最も高い%@</target>
+        <target>最もHP割合が高い%@</target>
         <note>target type</note>
       </trans-unit>
       <trans-unit id="%@ highest Magic STR" xml:space="preserve">
         <source>%@ highest Magic STR</source>
-        <target>魔法攻撃力が最も高い%@</target>
+        <target>最も魔法攻撃力が高い%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ highest TP" xml:space="preserve">
         <source>%@ highest TP</source>
-        <target>TPが最も高い%@</target>
+        <target>最もTPが高い%@</target>
         <note>target type</note>
       </trans-unit>
       <trans-unit id="%@ lowest ATK" xml:space="preserve">
         <source>%@ lowest ATK</source>
-        <target>物理攻撃力が最も低い%@</target>
+        <target>最も物理攻撃力が低い%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ lowest HP" xml:space="preserve">
         <source>%@ lowest HP</source>
-        <target>HPが最も低い%@</target>
+        <target>最もHPが低い%@</target>
         <note>target type</note>
       </trans-unit>
       <trans-unit id="%@ lowest HP ratio" xml:space="preserve">
         <source>%@ lowest HP ratio</source>
-        <target>HP割合が最も低い%@</target>
+        <target>最もHP割合が低い%@</target>
         <note>target type</note>
       </trans-unit>
       <trans-unit id="%@ lowest Magic STR" xml:space="preserve">
         <source>%@ lowest Magic STR</source>
-        <target>魔法攻撃力が最も低い%@</target>
+        <target>最も魔法攻撃力が低い%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ lowest TP" xml:space="preserve">
         <source>%@ lowest TP</source>
-        <target>TPが最も低い%@</target>
+        <target>最もTPが低い%@</target>
         <note>target type</note>
       </trans-unit>
       <trans-unit id="%@ magic" xml:space="preserve">
