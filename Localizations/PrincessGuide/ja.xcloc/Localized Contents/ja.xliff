@@ -2046,12 +2046,12 @@
       </trans-unit>
       <trans-unit id="Restore %@ [%@] TP." xml:space="preserve">
         <source>Restore %1$@ [%2$@] TP.</source>
-        <target>%1$@のTPを[%2$@]回復。</target>
+        <target>%1$@のTPを[%2$@]回復させる。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restore %@ [%@]%@ HP." xml:space="preserve">
         <source>Restore %1$@ [%2$@]%3$@ HP.</source>
-        <target>%1$@のHPを[%2$@]%3$@回復。</target>
+        <target>%1$@のHPを[%2$@]%3$@回復させる。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review at App Store" xml:space="preserve">
