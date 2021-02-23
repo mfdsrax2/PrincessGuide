@@ -191,7 +191,7 @@
       </trans-unit>
       <trans-unit id="%@ highest ATK" xml:space="preserve">
         <source>%@ highest ATK</source>
-        <target>物理攻撃力が最も高い%@</target>
+        <target>最も物理攻撃力が高い%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ highest HP" xml:space="preserve">
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
-        <target>すべて</target>
+        <target>全て</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="App Version" xml:space="preserve">
@@ -3156,7 +3156,7 @@
       </trans-unit>
       <trans-unit id="the highest ATK" xml:space="preserve">
         <source>the highest ATK</source>
-        <target>物理攻撃力が最も高い</target>
+        <target>最も物理攻撃力が高い</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="the highest HP" xml:space="preserve">
@@ -3171,7 +3171,7 @@
       </trans-unit>
       <trans-unit id="the highest Magic STR" xml:space="preserve">
         <source>the highest Magic STR</source>
-        <target>魔法攻撃力が最も高い</target>
+        <target>最も魔法攻撃力が高い</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="the highest TP" xml:space="preserve">
